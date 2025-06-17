@@ -14,7 +14,7 @@
         {
             "label": "Facebook",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "primary",
             "type": "Link",

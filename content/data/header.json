@@ -32,15 +32,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Test",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],

@@ -80,14 +80,6 @@
             "style": "secondary",
             "type": "Button",
             "showIcon": true
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",

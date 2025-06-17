@@ -21,15 +21,6 @@
             "showIcon": false
         },
         {
-            "label": "Instagram",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "altText": "",
             "url": "/https://www.instagram.com/",

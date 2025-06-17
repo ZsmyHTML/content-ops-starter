@@ -25,7 +25,7 @@
         {
             "type": "Link",
             "label": "Facebook",
-            "altText": "Facebook",
+            "altText": "",
             "url": "/https://www.facebook.com/?locale=de_DE",
             "showIcon": true,
             "icon": "facebook",

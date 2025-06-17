@@ -18,7 +18,7 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Link",
-            "showIcon": true
+            "showIcon": false
         },
         {
             "label": "Instagram",

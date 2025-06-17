@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Willkommen bei Lavendel Munich
+      text: ''
       color: text-dark
       type: TitleBlock
       styles:

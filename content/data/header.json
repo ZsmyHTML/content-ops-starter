@@ -16,7 +16,7 @@
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link",
             "showIcon": true
         },

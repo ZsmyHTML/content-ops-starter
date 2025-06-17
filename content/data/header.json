@@ -96,7 +96,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pb-3"
+                "pb-0"
             ]
         }
     }

@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/icon1.svg
+      url: >-
+        /images/166730325-selektiver-fokus-schlanke-ballerina-mädchenbeine-in-lavendelbüschen-warmes-sonnenuntergangslicht.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

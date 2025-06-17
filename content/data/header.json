@@ -69,6 +69,16 @@
             ],
             "labelStyle": "primary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "/https://www.instagram.com/",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],

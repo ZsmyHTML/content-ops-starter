@@ -23,6 +23,17 @@
             "label": "Instagram"
         },
         {
+            "type": "Link",
+            "label": "Facebook",
+            "altText": "Facebook",
+            "url": "/https://www.facebook.com/?locale=de_DE",
+            "showIcon": true,
+            "icon": "facebook",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Test",
             "altText": "Careers page",
             "url": "/careers",
@@ -62,17 +73,6 @@
             ],
             "labelStyle": "primary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Facebook",
-            "altText": "Facebook",
-            "url": "/https://www.facebook.com/?locale=de_DE",
-            "showIcon": true,
-            "icon": "facebook",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],

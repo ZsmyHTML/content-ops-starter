@@ -12,15 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Facebook",
-            "url": "/pricing",
-            "icon": "",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link",
-            "showIcon": false
-        },
-        {
             "type": "Link",
             "altText": "",
             "url": "/https://www.instagram.com/",
